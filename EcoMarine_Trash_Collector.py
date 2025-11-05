@@ -142,7 +142,3 @@ if __name__ == "__main__":
         pwmB.stop()
         GPIO.cleanup()
         print("? GPIO and camera cleaned up.")
-
-
-
-
