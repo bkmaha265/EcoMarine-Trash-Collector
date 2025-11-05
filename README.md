@@ -5,19 +5,19 @@ The conveyor mechanism collects floating waste and directs it into a storage con
 
 #Features:
 
-Remote boat navigation via mobile app.
+-Remote boat navigation via mobile app.
 
-Live camera streaming for real-time monitoring.
+-Live camera streaming for real-time monitoring.
 
-Dual motor control for boat movement and waste collection.
+-Dual motor control for boat movement and waste collection.
 
-Low-cost and easy to maintain hardware design.
+-Low-cost and easy to maintain hardware design.
 
 #Applications:
 
-Cleaning small lakes, ponds, village reservoirs, and campus water bodies.
+-Cleaning small lakes, ponds, village reservoirs, and campus water bodies.
 
-Reducing manual cleaning effort and promoting environmental responsibility.
+-Reducing manual cleaning effort and promoting environmental responsibility.
 
-EcoMarine provides an efficient, affordable, and user-friendly way to help maintain cleaner water environments.
+-EcoMarine provides an efficient, affordable, and user-friendly way to help maintain cleaner water environments.
 
